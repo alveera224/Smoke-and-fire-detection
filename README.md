@@ -57,20 +57,6 @@ Key capabilities:
 The combination of speed, accuracy, and reliable notification makes Flare Guard particularly effective for environments where early fire detection is critical for safety and asset protection.
 
 
-## Video Demonstration
-
-<div align="center">
-  <video width="700" src="https://github.com/user-attachments/assets/d4059264-5953-45d2-8464-b5c61e9a0caf"/>
-</div>
-
-<div align="center">
-     
-   ### 🔥 Fire Detection System in Action  
-  This video demonstrates the system detecting fire immediately upon occurrence.  
-  Alerts are sent instantly to **Telegram** and **WhatsApp**, including an attached image.  
-  Thanks to **multithreading**, the system continues running without interruption.
-  
-</div>
 
 ## Dataset
 
